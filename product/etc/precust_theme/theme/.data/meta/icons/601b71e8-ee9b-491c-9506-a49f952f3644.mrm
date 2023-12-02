@@ -1,0 +1,90 @@
+{
+  "localId": "601b71e8-ee9b-491c-9506-a49f952f3644",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "b8bb47b8af2c6a6c4cfbd556e957ee2e90f5fcd4",
+  "platform": 15,
+  "size": 4467620,
+  "updatedTime": 0,
+  "version": "1",
+  "authors": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+    "en_US": "Xiaomi Themes",
+    "ug_CN": "شياۋمى ئۇسلۇبى",
+    "zh_CN": "小米主题"
+  },
+  "designers": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+    "en_US": "Xiaomi Themes",
+    "ug_CN": "شياۋمى ئۇسلۇبى",
+    "zh_CN": "小米主题"
+  },
+  "titles": {
+    "zh_HK": "K70 Pro 藍寶堅尼汽車 SQUADRA CORSE",
+    "zh_TW": "K70 Pro 藍寶堅尼汽車 SQUADRA CORSE",
+    "bo_CN": "K70 Pro ལན་པའོ་ཅི་ནཱི་རླངས་འཁོར་ SQUADRA CORSE",
+    "en_US": "K70 Pro Lamborghini Squadra Corse",
+    "ug_CN": "K70 Pro لەمبورگېنى ئاپتوموبىلى SQUADRA CORSE",
+    "zh_CN": "K70 Pro 兰博基尼汽车 SQUADRA CORSE",
+    "fallback": "K70 Pro 兰博基尼汽车 SQUADRA CORSE"
+  },
+  "descriptions": {
+    "zh_HK": "點燃競速熱情，為你的手機換上全新戰衣！主題融入藍寶堅尼汽車 SQUADRA CORSE的DNA，深度客製開機動畫、充電動畫、桌面桌布及圖示，經典的六角形設計、凌厲的線條結構，為你帶來全方位的視覺衝擊！",
+    "zh_TW": "點燃競速熱情，為你的手機換上全新戰衣！主題融入藍寶堅尼汽車 SQUADRA CORSE的DNA，深度客製開機動畫、充電動畫、桌面桌布及圖示，經典的六角形設計、凌厲的線條結構，為你帶來全方位的視覺衝擊！",
+    "bo_CN": "འགྲན་རྩོད་ཀྱི་རྦ་རླབས་རླུང་གིས་སྐུལ་དགོས་ཏེ། ཁ་པར་གྱི་དམག་ཆས་ཀྱང་གསར་པར་བརྗེ་དགོས། གཙོ་དོན་ལན་པའོ་ཅི་ནཱི་རླངས་འཁོར་ SQUADRA CORSEཡི་DNAདང་འཚམས་ཤིང་། ཁ་པར་ཁ་ཕྱེ་བའི་འགུལ་བརྙན་དང་། གློག་གསོག་འགུལ་བརྙན། ཅོག་ངོས་རྩིག་ཤོག་དང་རིས་རྟགས་སོགས་ཀྱིས་ཁྱེད་ལ་མཐོང་ཚོར་གསར་པ་ཞིག་སྦྱིན་ངེས།",
+    "en_US": "Ignite your passion for racing and give your phone a new look! If you love the Lamborghini Squadra Corse, you\\'ll love this design, with custom boot and charging animations, wallpapers, icons, and more.",
+    "ug_CN": "سۈرئەت ۋە ھېسسىيات قىزغىنلىقىنى قوزغاپ، يانفونىڭىزغا يېڭى جەڭ كىيىمى ئالماشتۇرۇڭ! ئۇسلۇبقا لامبورگىنى ئاپتوموبىلى SQUADRACORST نىڭ DNA سى سىڭىپ كىرگەن بولۇپ، قوزغىتىش كۆرۈنمە يۈز، زەرەتلەش كۆرۈنمە يۈزى، تەگلىك ۋە سىنبەلگىلەرنى چوڭقۇر لايىھەلىگەن، كىلاسسىك ئالتە تەرەپلىك لايىھە، ئۆتكۈر سىزىق قۇرۇلمىسى سىزگە ھەر تەرەپلىمە باشقىچە كۆرۈش سېزىمىنى ئېلىپ كېلىدۇ!",
+    "zh_CN": "点燃竞速热情，为你的手机换上全新战衣！主题融入兰博基尼汽车 SQUADRA CORSE的DNA，深度定制开机动画、充电动画、桌面壁纸及图标，经典的六边形设计、凌厉的线条结构，为你带来全方位的视觉冲击！",
+    "fallback": "点燃竞速热情，为你的手机换上全新战衣！主题融入兰博基尼汽车 SQUADRA CORSE的DNA，深度定制开机动画、充电动画、桌面壁纸及图标，经典的六边形设计、凌厉的线条结构，为你带来全方位的视觉冲击！"
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_icons_0.jpg",
+      "preview_icons_1.jpg",
+      "preview_icons_2.jpg",
+      "preview_icons_2x3_0.jpg",
+      "preview_icons_4x3_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_icons_0.jpg",
+      "preview_icons_1.jpg",
+      "preview_icons_2.jpg",
+      "preview_icons_2x3_0.jpg",
+      "preview_icons_4x3_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "16963edc-bea3-4bd5-a234-274c12adcc25",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "3.0"
+}

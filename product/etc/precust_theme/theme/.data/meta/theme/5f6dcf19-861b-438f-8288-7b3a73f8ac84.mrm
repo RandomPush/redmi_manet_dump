@@ -1,0 +1,152 @@
+{
+  "localId": "5f6dcf19-861b-438f-8288-7b3a73f8ac84",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "a506936f6dc51ad343107fe65699a2d3d3815151",
+  "platform": 15,
+  "size": 16145593,
+  "updatedTime": 0,
+  "version": "1",
+  "authors": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+    "en_US": "Xiaomi Themes",
+    "ug_CN": "شياۋمى ئۇسلۇبى",
+    "zh_CN": "小米主题"
+  },
+  "designers": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+    "en_US": "Xiaomi Themes",
+    "ug_CN": "شياۋمى ئۇسلۇبى",
+    "zh_CN": "小米主题"
+  },
+  "titles": {
+    "zh_HK": "K70 Pro 藍寶堅尼汽車 SQUADRA CORSE",
+    "zh_TW": "K70 Pro 藍寶堅尼汽車 SQUADRA CORSE",
+    "bo_CN": "K70 Pro ལན་པའོ་ཅི་ནཱི་རླངས་འཁོར་ SQUADRA CORSE",
+    "en_US": "K70 Pro Lamborghini Squadra Corse",
+    "ug_CN": "K70 Pro لەمبورگېنى ئاپتوموبىلى SQUADRA CORSE",
+    "zh_CN": "K70 Pro 兰博基尼汽车 SQUADRA CORSE",
+    "fallback": "K70 Pro 兰博基尼汽车 SQUADRA CORSE"
+  },
+  "descriptions": {
+    "zh_HK": "點燃競速熱情，為你的手機換上全新戰衣！主題融入藍寶堅尼汽車 SQUADRA CORSE的DNA，深度客製開機動畫、充電動畫、桌面桌布及圖示，經典的六角形設計、凌厲的線條結構，為你帶來全方位的視覺衝擊！",
+    "zh_TW": "點燃競速熱情，為你的手機換上全新戰衣！主題融入藍寶堅尼汽車 SQUADRA CORSE的DNA，深度客製開機動畫、充電動畫、桌面桌布及圖示，經典的六角形設計、凌厲的線條結構，為你帶來全方位的視覺衝擊！",
+    "bo_CN": "འགྲན་རྩོད་ཀྱི་རྦ་རླབས་རླུང་གིས་སྐུལ་དགོས་ཏེ། ཁ་པར་གྱི་དམག་ཆས་ཀྱང་གསར་པར་བརྗེ་དགོས། གཙོ་དོན་ལན་པའོ་ཅི་ནཱི་རླངས་འཁོར་ SQUADRA CORSEཡི་DNAདང་འཚམས་ཤིང་། ཁ་པར་ཁ་ཕྱེ་བའི་འགུལ་བརྙན་དང་། གློག་གསོག་འགུལ་བརྙན། ཅོག་ངོས་རྩིག་ཤོག་དང་རིས་རྟགས་སོགས་ཀྱིས་ཁྱེད་ལ་མཐོང་ཚོར་གསར་པ་ཞིག་སྦྱིན་ངེས།",
+    "en_US": "Ignite your passion for racing and give your phone a new look! If you love the Lamborghini Squadra Corse, you\\'ll love this design, with custom boot and charging animations, wallpapers, icons, and more.",
+    "ug_CN": "سۈرئەت ۋە ھېسسىيات قىزغىنلىقىنى قوزغاپ، يانفونىڭىزغا يېڭى جەڭ كىيىمى ئالماشتۇرۇڭ! ئۇسلۇبقا لامبورگىنى ئاپتوموبىلى SQUADRACORST نىڭ DNA سى سىڭىپ كىرگەن بولۇپ، قوزغىتىش كۆرۈنمە يۈز، زەرەتلەش كۆرۈنمە يۈزى، تەگلىك ۋە سىنبەلگىلەرنى چوڭقۇر لايىھەلىگەن، كىلاسسىك ئالتە تەرەپلىك لايىھە، ئۆتكۈر سىزىق قۇرۇلمىسى سىزگە ھەر تەرەپلىمە باشقىچە كۆرۈش سېزىمىنى ئېلىپ كېلىدۇ!",
+    "zh_CN": "点燃竞速热情，为你的手机换上全新战衣！主题融入兰博基尼汽车 SQUADRA CORSE的DNA，深度定制开机动画、充电动画、桌面壁纸及图标，经典的六边形设计、凌厉的线条结构，为你带来全方位的视觉冲击！",
+    "fallback": "点燃竞速热情，为你的手机换上全新战衣！主题融入兰博基尼汽车 SQUADRA CORSE的DNA，深度定制开机动画、充电动画、桌面壁纸及图标，经典的六边形设计、凌厉的线条结构，为你带来全方位的视觉冲击！"
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_aod_small_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_aod_0.jpg",
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_icons_0.jpg",
+      "preview_icons_1.jpg",
+      "preview_icons_2.jpg",
+      "preview_icons_2x3_0.jpg",
+      "preview_icons_4x3_0.jpg",
+      "preview_animation_0.jpg",
+      "preview_animation_1.jpg",
+      "preview_animation_2.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "522d4275-bee6-4b52-9e08-4cd26d3b5baf",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "cb176dbf-9cf7-4986-81b8-de46721c38b4",
+      "resourceCode": "lockstyle",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "cf582670-483a-4253-955f-7df6c4258a12",
+      "resourceCode": "bootanimation",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c410c10a-5679-46e4-906f-7f65cfaf4b1e",
+      "resourceCode": "bootaudio",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "f62d2f81-1516-4140-84ca-6360a1b19fac",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "84f950bf-95f0-478c-a8de-ab02f7a1b8f4",
+      "resourceCode": "statusbar",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "98eca8e0-62b4-4f21-b6f3-e68a0cb43d60",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "9b2680e8-f3f7-4f43-8f91-8a50f92b56c0",
+      "resourceCode": "aod",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "bba6914a-9acd-4da5-8f99-5b2c12702ae0",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "bought": false,
+  "check_bought": true,
+  "miuiAdapterVersion": "3.0"
+}
