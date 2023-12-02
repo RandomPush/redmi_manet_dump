@@ -1,0 +1,14 @@
+# missi_phone_cn_only64-user 14 UKQ1.230804.001 V816.0.4.0.UNMCNXM release-keys
+- manufacturer: xiaomi
+- platform: pineapple
+- codename: manet
+- flavor: missi_phone_cn_only64-user
+- release: 14
+- id: UKQ1.230804.001
+- incremental: V816.0.4.0.UNMCNXM
+- tags: release-keys
+- fingerprint: Redmi/manet/manet:14/UKQ1.230804.001/V816.0.4.0.UNMCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_cn_only64-user-14-UKQ1.230804.001-V816.0.4.0.UNMCNXM-release-keys
+- repo: redmi_manet_dump

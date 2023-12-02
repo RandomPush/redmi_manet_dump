@@ -1,0 +1,17 @@
+#!
+# @file gpp_app_list
+#
+# @cr
+# Copyright (c) 2023 Qualcomm Technologies, Inc.
+# All Rights Reserved.
+# Confidential and Proprietary  Qualcomm Technologies, Inc.
+# @services
+#
+# game package name, there must be no extra spaces at the end of each line
+com.tencent.tmgp.sgame
+com.tencent.tmgp.pubgmhd
+com.miHoYo.hkrpg
+com.miHoYo.Yuanshen
+com.miHoYo.ys.mi
+com.miHoYo.ys.bilibili
+com.miHoYo.GenshinImpact
